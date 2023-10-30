@@ -1,0 +1,75 @@
+@{
+    ViewData["Title"] = "All Dishes";
+}
+@model List<Dish>
+
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm border-bottom box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Chefs 'N Dishes</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link fs-5 text-primary-emphasis text-decoration-underline"
+                        asp-area="" asp-controller="Home" asp-action="Index">Chefs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fs-5">Dishes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fs-5 text-primary-emphasis text-decoration-underline"
+                        asp-area="" asp-controller="Chef" asp-action="NewChef">Add Chef</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fs-5 text-primary-emphasis text-decoration-underline"
+                        asp-area="" asp-controller="Dish" asp-action="NewDish">Add Dish</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+<div class="card shadow mt-5 mx-auto w-75 border-3 border-light-subtle">
+    <div class="card-header">
+        <h1 class="text-center text-warning-emphasis">Check Out Our List of Dishes!</h1>
+    </div>
+    <div class="card-body">
+        <table class="table table-hover">
+            
+            <thead>
+                <tr>
+                    <th scope="col" class="fs-5">Name:</th>
+                    <th scope="col" class="fs-5">Chef:</th>
+                    <th scope="col" class="fs-5 text-center">Tastiness:</th>
+                    <th scope="col" class="fs-5 text-center">Calories:</th>
+                </tr>
+            </thead>
+
+            <tbody class="table-group-divider">
+                @foreach(Dish d in Model)
+                {
+                    <tr>
+                        <td class="align-middle fs-5 text-warning-emphasis">
+                            @d.Name
+                        </td>
+                        <td class="align-middle fs-5 text-warning-emphasis">
+                            @d.Creator.LastName, @d.Creator.FirstName
+                        </td>
+                        <td class="align-middle fs-5 text-center text-warning-emphasis">
+                            @d.Tastiness
+                        </td>
+                        <td class="align-middle fs-5 text-center text-warning-emphasis">
+                            @d.Calories
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

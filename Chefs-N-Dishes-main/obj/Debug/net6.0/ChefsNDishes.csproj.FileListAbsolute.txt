@@ -1,0 +1,70 @@
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\appsettings.json
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.staticwebassets.runtime.json
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.exe
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.deps.json
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.runtimeconfig.json
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\ChefsNDishes.pdb
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.AssemblyInfoInputs.cache
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.AssemblyInfo.cs
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.RazorAssemblyInfo.cache
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.RazorAssemblyInfo.cs
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\scopedcss\bundle\ChefsNDishes.styles.css
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\scopedcss\projectbundle\ChefsNDishes.bundle.scp.css
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.csproj.CopyComplete
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\refint\ChefsNDishes.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.pdb
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ChefsNDishes.genruntimeconfig.cache
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\03_ORMs\ChefsNDishes\obj\Debug\net6.0\ref\ChefsNDishes.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\appsettings.Development.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\appsettings.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\ChefsNDishes.staticwebassets.runtime.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\ChefsNDishes.exe
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\ChefsNDishes.deps.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\ChefsNDishes.runtimeconfig.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\ChefsNDishes.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\ChefsNDishes.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\Humanizer.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\MySqlConnector.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.MvcApplicationPartsAssemblyInfo.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.RazorAssemblyInfo.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.RazorAssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\staticwebassets.build.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\staticwebassets.development.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\scopedcss\bundle\ChefsNDishes.styles.css
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\scopedcss\projectbundle\ChefsNDishes.bundle.scp.css
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.csproj.CopyComplete
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\refint\ChefsNDishes.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ChefsNDishes.genruntimeconfig.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Chefs-n-dishes\Chefs-N-Dishes-main\obj\Debug\net6.0\ref\ChefsNDishes.dll

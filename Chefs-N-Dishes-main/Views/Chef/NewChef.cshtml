@@ -1,0 +1,64 @@
+@{
+    ViewData["Title"] = "New Chef";
+}
+
+@model Chef
+
+
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm border-bottom box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Chefs 'N Dishes</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link fs-5 text-primary-emphasis text-decoration-underline"
+                        asp-area="" asp-controller="Home" asp-action="Index">Chefs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fs-5 text-primary-emphasis text-decoration-underline"
+                        asp-area="" asp-controller="Dish" asp-action="AllDishes">Dishes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fs-5">Add Chef</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fs-5 text-primary-emphasis text-decoration-underline"
+                        asp-area="" asp-controller="Dish" asp-action="NewDish">Add Dish</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+<div class="card shadow mt-5 mx-auto w-50 border-3 border-light-subtle">
+    <div class="card-header">
+        <h1 class="text-center text-warning-emphasis">Add a Chef!</h1>
+    </div>
+    <div class="card-body">
+        <form asp-action="CreateChef" asp-controller="Chef" method="post">
+            <div class="mb-3">
+                <label asp-for="FirstName" class="form-label   fs-5 text-warning-emphasis"></label>
+                <input asp-for="FirstName" class="form-control fs-5 text-center"></input>
+                <span asp-validation-for="FirstName" class="fs-6 text-danger-emphasis"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="LastName" class="form-label   fs-5 text-warning-emphasis"></label>
+                <input asp-for="LastName" class="form-control fs-5 text-center"></input>
+                <span asp-validation-for="LastName" class="fs-6 text-danger-emphasis"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="DOB" class="form-label   fs-5 text-warning-emphasis"></label>
+                <input asp-for="DOB" class="form-control fs-5 text-center">
+                <span asp-validation-for="DOB" class="fs-6 text-center text-danger-emphasis"></span>
+            </div>
+            <button class="btn btn-primary float-end">Add Chef</button>
+        </form>
+    </div>
+</div>
